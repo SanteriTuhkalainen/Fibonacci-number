@@ -1,0 +1,7 @@
+C:\Users\Santeri\Desktop\koodaus\Fibonacci number\Fibonacci number\bin\Debug\Fibonacci number.exe.config
+C:\Users\Santeri\Desktop\koodaus\Fibonacci number\Fibonacci number\bin\Debug\Fibonacci number.exe
+C:\Users\Santeri\Desktop\koodaus\Fibonacci number\Fibonacci number\bin\Debug\Fibonacci number.pdb
+C:\Users\Santeri\Desktop\koodaus\Fibonacci number\Fibonacci number\obj\Debug\Fibonacci number.csprojAssemblyReference.cache
+C:\Users\Santeri\Desktop\koodaus\Fibonacci number\Fibonacci number\obj\Debug\Fibonacci number.csproj.CoreCompileInputs.cache
+C:\Users\Santeri\Desktop\koodaus\Fibonacci number\Fibonacci number\obj\Debug\Fibonacci number.exe
+C:\Users\Santeri\Desktop\koodaus\Fibonacci number\Fibonacci number\obj\Debug\Fibonacci number.pdb
